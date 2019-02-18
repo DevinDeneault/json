@@ -1,44 +1,44 @@
 {
   "data" : [
   {
-      "type": 'Progress Report',
+      "type": "Progress Report",
       "time": 0,
-      "content": '<span style="font-weight: bold;">Lorem</span> <span style="color: red;">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul>'
+      "content": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul>"
     },
     {
-      "type": 'Records Entry',
+      "type": "Records Entry",
       "time": 60,
-      "content": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      "type": 'Records Entry',
+      "type": "Records Entry",
       "time": 120,
-      "content": 'test<br>test'
+      "content": "test<br>test"
     },
     {
-      "type": 'Records Entry',
+      "type": "Records Entry",
       "time": 285,
-      "content": '<span style="font-weight: bold;">Lorem</span> <span style="color: red;">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+      "content": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "type": 'Records Entry',
+      "type": "Records Entry",
       "time": 285,
-      "content": '<span style="font-weight: bold;">Lorem</span> <span style="color: red;">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+      "content": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "type": 'Records Entry',
+      "type": "Records Entry",
       "time": 285,
-      "content": '<span style="font-weight: bold;">Lorem</span> <span style="color: red;">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+      "content": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "type": 'Records Entry',
+      "type": "Records Entry",
       "time": 285,
-      "content": '<span style="font-weight: bold;">Lorem</span> <span style="color: red;">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+      "content": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "type": 'Records Entry',
+      "type": "Records Entry",
       "time": 285,
-      "content": '<span style="font-weight: bold;">Lorem</span> <span style="color: red;">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+      "content": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ]
 }
