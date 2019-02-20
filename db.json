@@ -4,6 +4,7 @@
       "date": "1 July 1876",
       "noteType": "Progress Report",
       "minutes": 0,
+      "amount": 1000,
       "total": 4566,
       "note": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul>"
     },
@@ -11,6 +12,7 @@
       "date": "1 July 1876",
       "noteType": "Records Entry",
       "minutes": 60,
+      "amount": 1200,
       "total": 8421,
       "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -18,6 +20,7 @@
       "date": "1 July 1876",
       "noteType": "Records Entry",
       "minutes": 120,
+      "amount": 2000,
       "total": 35234,
       "note": "test<br>test"
     },
@@ -25,6 +28,7 @@
       "date": "1 July 1876",
       "noteType": "Records Entry",
       "minutes": 285,
+      "amount": 1500,
       "total": 0,
       "note": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -32,6 +36,7 @@
       "date": "1 July 1876",
       "noteType": "Records Entry",
       "minutes": 285,
+      "amount": 6000,
       "total": 0,
       "note": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -39,6 +44,7 @@
       "date": "1 July 1876",
       "noteType": "Records Entry",
       "minutes": 285,
+      "amount": 1200,
       "total": 0,
       "note": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -46,6 +52,7 @@
       "date": "1 July 1876",
       "noteType": "Records Entry",
       "minutes": 285,
+      "amount": 1200,
       "total": 0,
       "note": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -53,6 +60,7 @@
       "date": "1 July 1876",
       "noteType": "Records Entry",
       "minutes": 285,
+      "amount": 6000,
       "total": 0,
       "note": "<span style=\"font-weight: bold;\">Lorem</span> <span style=\"color: red;\">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <ul><li>Ut enim ad minim veniam</li><li>quis nostrud exercitation ullamco laboris nisi</li><li>ut aliquip ex ea commodo consequat.</li></ul> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
