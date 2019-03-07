@@ -70,7 +70,7 @@
       "minutes": null,
       "amount": null,
       "total": null,
-      "note": null
+      "note": "empty values note!"
     }
   ]
 }
